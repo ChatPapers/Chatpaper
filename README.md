@@ -12,12 +12,15 @@
     <p><strong>Love this project? Give it a Star! 🌟 Found a bug? Open an issue! 🐛</strong></p>
     <p>基于大语言模型的开源Web应用程序，用于学术文章摘要、表格和图片的提取与分析。</p>
     <p><strong>喜欢这个项目？请给它一个星标！🌟 发现错误？请提交问题！🐛</strong></p>
+    
+    [![Github][Github-image]][Github-url]
+    [![License][License-image]][License-url]
+    [![Discord][Discord-image]][Discord-url]
 </div>
 
-[![Github][Github-image]][Github-url]
-[![License][License-image]][License-url]
 
-
+[Discord-image]: https://img.shields.io/badge/Discord-Join%20Us-blue
+[Discord-url]: YOUR_DISCORD_INVITE_LINK
 [Github-image]: https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
 [Github-url]: https://github.com/ChatPapers/Chatpaper
 [License-image]: https://img.shields.io/badge/License-MIT-green
