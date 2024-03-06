@@ -23,13 +23,13 @@ An open-source web app for summarizing articles, extracting and explaining figur
 1. 下载项目
 
     ```sh
-    git clone https://github.com/binary-husky/gpt_academic.git](https://github.com/ChatPapers/Chatpaper.git
+    git clone https://github.com/ChatPapers/Chatpaper.git
     cd ChatPaper
     ```
 
 2. 配置API_KEY等变量
 
-    用记事本打开```.env ```文件， 填写```openai_api_key= ```
+    用记事本打开```.env ```文件， 填写```openai_api_key```。请访问[https://openai.com/blog/openai-api](https://openai.com/blog/openai-api)了解如何获取api key
 
 3. 安装依赖
     ```sh
