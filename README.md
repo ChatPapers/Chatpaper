@@ -39,7 +39,7 @@ An open-source LLM based web app for summarizing articles, extracting and explai
     
     ```
 4. 安装tesseract用于文字OCR
-    请根据[tesseract官网](https://tesseract-ocr.github.io/tessdoc/Installation.html)用于文字OCR，进行安装。
+    请根据[tesseract官网](https://tesseract-ocr.github.io/tessdoc/Installation.html)进行安装。
    
 5. 安装模型用于提取文字，表格和图片
 
