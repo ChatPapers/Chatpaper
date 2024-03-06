@@ -63,3 +63,15 @@ An open-source LLM based web app for summarizing articles, extracting and explai
     python app.py 
     ```
 打开网页[127.0.0.1:7860](127.0.0.1:7860)即可使用
+
+# 社区支持
+
+# Join Discord US
+📢 Join [Our discord Channel](http://discord.gg/fHNM5PxfvR)
+
+Looking forward to seeing you there!
+
+# Contact Information
+If you have any questions or feedback about this porject！Feel Free to contact us
+
+**Email**: davidyam521@gmail.com
