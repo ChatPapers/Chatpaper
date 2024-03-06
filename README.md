@@ -21,6 +21,7 @@
 [Github-image]: https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
 [Github-url]: https://github.com/ChatPapers/Chatpaper
 [License-image]: https://img.shields.io/badge/License-MIT-green
+[License-url]: https://opensource.org/license/mit
 
 
 ## 安装指南 (Installation Guide)
