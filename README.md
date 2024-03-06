@@ -61,11 +61,12 @@ https://github.com/ChatPapers/Chatpaper/assets/156963573/56f39f3c-66b4-4c9b-ad24
     - **Unilm** with a minor bug fix:
         ```sh
         git clone https://github.com/microsoft/unilm.git
-        sed -i 's/from collections import Iterable/from collections.abc import Iterable/' unilm/dit/object_detection/ditod/table_evaluation/data_structure.py
         ```
+        After Unlim has been download, go to unilm/dit/object_detection/ditod/table_evaluation/data_structure.py and change "import Iterable" to "from collections.abc import Iterable"
+        
     - **Download Dit document layout model**:
         ```sh
-        curl -LJ -o publaynet_dit-b_cascade.pth 'https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth?sv=2022-11-02&ss=b&srt=o&sp=r&se=2033-06-08T16:48:15Z&st=2023-06-08T08:48:15Z&spr=https&sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D'
+        curl -LJ -o publaynet_dit-b_cascade.pth "https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth?sv=2022-11-02&ss=b&srt=o&sp=r&se=2033-06-08T16:48:15Z&st=2023-06-08T08:48:15Z&spr=https&sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D"
         ```
 ### Mac
 Coming Soon
