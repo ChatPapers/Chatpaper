@@ -19,8 +19,8 @@
 </div>
 
 
-[Discord-image]: https://img.shields.io/badge/Discord-Join%20Us-blue
-[Discord-url]: YOUR_DISCORD_INVITE_LINK
+[Discord-image]: https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat&logo=Discord
+[Discord-url]: https://discord.com/invite/uQJXzE3K8G
 [Github-image]: https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
 [Github-url]: https://github.com/ChatPapers/Chatpaper
 [License-image]: https://img.shields.io/badge/License-MIT-green
