@@ -13,6 +13,7 @@ An open-source LLM based web app for summarizing articles, extracting and explai
 **If you like this project, please give it a Star; If you find a bug, open an issue!**
 
 基于web和大语言模型的开源软件，用于学术论文总结，表格图片提取和分析。
+
 **如果喜欢这个项目，请给它一个Star；如果您使用遇到了问题，欢迎发issue！**
 
 </div>
