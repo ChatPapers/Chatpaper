@@ -19,3 +19,4 @@ An open-source web app for summarizing articles, extracting and explaining figur
 
 <br>
 
+# Installation
