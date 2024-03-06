@@ -29,12 +29,11 @@ An open-source web app for summarizing articles, extracting and explaining figur
 
 2. 配置API_KEY等变量
 
-    在```sh.env ```
+    用记事本打开```.env ```文件， 填写```openai_api_key= ```
 
 3. 安装依赖
     ```sh
-    # （选择I: 如熟悉python, python推荐版本 3.9 ~ 3.11）备注：使用官方pip源或者阿里pip源, 临时换源方法：python -m pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
-    python -m pip install -r requirements.txt
+     pip install -r requirements.txt
 
     # （选择II: 使用Anaconda）步骤也是类似的 (https://www.bilibili.com/video/BV1rc411W7Dr)：
     conda create -n gptac_venv python=3.11    # 创建anaconda环境
