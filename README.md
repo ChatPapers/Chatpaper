@@ -26,6 +26,11 @@
 [License-image]: https://img.shields.io/badge/License-MIT-green
 [License-url]: https://github.com/ChatPapers/Chatpaper/tree/main?tab=MIT-1-ov-file#readme
 
+## Demo
+
+
+https://github.com/ChatPapers/Chatpaper/assets/156963573/56f39f3c-66b4-4c9b-ad24-0ed5d365683f
+
 
 ## 安装指南 (Installation Guide)
 
