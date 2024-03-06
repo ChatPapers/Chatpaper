@@ -16,10 +16,7 @@
 
 [![Github][Github-image]][Github-url]
 [![License][License-image]][License-url]
-[![Releases][Releases-image]][Releases-url]
-[![Installation][Installation-image]][Installation-url]
-[![Wiki][Wiki-image]][Wiki-url]
-[![PR][PRs-image]][PRs-url]
+
 
 [Github-image]: https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
 [Github-url]: https://github.com/ChatPapers/Chatpaper
