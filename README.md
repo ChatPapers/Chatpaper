@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
 > 2024.3.05: 更新0.1版本  
-> 2024.3.05: 安装依赖时，请选择`requirements.txt`中**指定的版本**。 安装命令：`pip install -r requirements.txt`。本项目完全开源免费
+> 2024.3.05: 安装依赖时，请选择`requirements.txt`中**指定的版本**。安装命令：`pip install -r requirements.txt`。本项目完全开源免费
 > 2024.3.05: 推荐电脑配置6 g RAM and 8 g VRAM
 <br>
 
