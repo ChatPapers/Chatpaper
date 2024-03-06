@@ -2,7 +2,7 @@
 > **🚨 IMPORTANT UPDATES 🚨**
 > - **2024-03-05**: Version 0.1 released.
 > - **2024-03-05**: When installing dependencies, please use **the specified versions** in `requirements.txt`. Install using the command: `pip install -r requirements.txt`. This project is fully open source and free to use.
-> - **2024-03-05**: Recommended system requirements: 6GB RAM and 8GB VRAM.
+> - **2024-03-05**: Recommended system requirements: 6GB RAM and 6GB VRAM.
 
 <div align="center">
     <h1>
