@@ -63,7 +63,7 @@ https://github.com/ChatPapers/Chatpaper/assets/156963573/56f39f3c-66b4-4c9b-ad24
         ```
     - **Download Dit document layout model**:
         ```sh
-        curl -LJ -o publaynet_dit-b_cascade.pth 'https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth'
+        curl -LJ -o publaynet_dit-b_cascade.pth 'https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth?sv=2022-11-02&ss=b&srt=o&sp=r&se=2033-06-08T16:48:15Z&st=2023-06-08T08:48:15Z&spr=https&sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D'
         ```
 
 ## 运行应用 (Running the App)
