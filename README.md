@@ -59,7 +59,7 @@ Access the web app at [http://127.0.0.1:7860](http://127.0.0.1:7860).
 ## 社区支持与联系方式 (Community Support & Contact Info)
 
 ### Join Our Discord
-- 📢 Join our Discord channel [here](http://discord.gg/fHNM5PxfvR) and connect with the community!
+- 📢 Join our Discord channel [here](https://discord.gg/fHNM5PxfvR) and connect with the community!
 
 ### Contact Information
 For any questions or feedback about this project, feel free to reach out.
