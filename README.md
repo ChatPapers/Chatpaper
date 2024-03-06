@@ -10,7 +10,7 @@
     </h1>
     <p>An innovative open-source LLM-based web app for summarizing academic articles, extracting, and analyzing figures & tables.</p>
     <p><strong>Love this project? Give it a Star! 🌟 Found a bug? Open an issue! 🐛</strong></p>
-    <p>基于大语言模型的开源Web应用程序，用于学术文章摘要、表格和图片的提取与分析。</p>
+    <p>基于大语言模型的开源Web应用程序，用于学术文章总结、表格和图片的提取与分析。</p>
     <p><strong>喜欢这个项目？请给它一个星标！🌟 发现错误？请提交问题！🐛</strong></p>
     
 [![Github][Github-image]][Github-url]
