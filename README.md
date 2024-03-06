@@ -14,12 +14,7 @@
     <p><strong>喜欢这个项目？请给它一个星标！🌟 发现错误？请提交问题！🐛</strong></p>
 </div>
 
-[![Github][Github-image]][Github-url]
-[![License][License-image]][License-url]
-[![Releases][Releases-image]][Releases-url]
-[![Installation][Installation-image]][Installation-url]
-[![Wiki][Wiki-image]][Wiki-url]
-[![PR][PRs-image]][PRs-url]
+
 
 ## 安装指南 (Installation Guide)
 
