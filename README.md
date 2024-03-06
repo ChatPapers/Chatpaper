@@ -34,9 +34,11 @@ An open-source web app for summarizing articles, extracting and explaining figur
 3. 安装依赖
     ```sh
      pip install -r requirements.txt
-
+    
     ```
-4. 安装DIT模型用于提取文字，表格和图片
+    安装[tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html)用于文字OCR， 请根据tesseract官网进行安装。
+   
+5. 安装模型用于提取文字，表格和图片
 
     下载detectron2：
     ```sh
