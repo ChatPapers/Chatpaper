@@ -57,7 +57,7 @@ An open-source web app for summarizing articles, extracting and explaining figur
     ```
 # 使用
 进入Chatpaper目录下,运行：
-    ```sh 
+    ``` 
     python app.py 
     ```
 打开网页[127.0.0.1:7860](127.0.0.1:7860)即可使用
