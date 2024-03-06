@@ -8,6 +8,8 @@
 <img src="logo.png" width="40"> ChatPaper
 </h1>
 An open-source web app for summarizing articles, extracting and explaining figures &amp; tables for academic articles  
+</div>
+
 
 
 **If you like this project, please give it a Star; If you find a bug, open an issue!**
@@ -18,5 +20,5 @@ An open-source web app for summarizing articles, extracting and explaining figur
 
 
 <br>
-
+<br><br>
 # Installation
