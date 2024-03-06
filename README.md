@@ -19,7 +19,7 @@ An open-source web app for summarizing articles, extracting and explaining figur
 
 
 
-# Installation
+# 安装方法
 1. 下载项目
 
     ```sh
@@ -38,7 +38,7 @@ An open-source web app for summarizing articles, extracting and explaining figur
     ```
     安装[tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html)用于文字OCR， 请根据tesseract官网进行安装。
    
-5. 安装模型用于提取文字，表格和图片
+4. 安装模型用于提取文字，表格和图片
 
     下载detectron2：
     ```sh
@@ -54,4 +54,10 @@ An open-source web app for summarizing articles, extracting and explaining figur
     ```sh
     curl -LJ -o publaynet_dit-b_cascade.pth 'https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth?sv=2022-11-02&ss=b&srt=o&sp=r&se=2033-06-08T16:48:15Z&st=2023-06-08T08:48:15Z&spr=https&sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D'
     ```
-    
+# 使用
+    进入Chatpaper目录下,使用
+    ```sh
+     python app.py
+
+    ```
+    打开网页[127.0.0.1:7860](127.0.0.1:7860)即可使用
