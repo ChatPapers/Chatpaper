@@ -62,7 +62,7 @@ https://github.com/ChatPapers/Chatpaper/assets/156963573/56f39f3c-66b4-4c9b-ad24
         ```sh
         git clone https://github.com/microsoft/unilm.git
         ```
-        After Unlim has been download, go to unilm/dit/object_detection/ditod/table_evaluation/data_structure.py and change "import Iterable" to "from collections.abc import Iterable" on Line 6
+        After Unlim has been downloaded, go to unilm/dit/object_detection/ditod/table_evaluation/data_structure.py and change "import Iterable" to "from collections.abc import Iterable" on Line 6
         
     - **Download Dit document layout model**:
         ```sh
