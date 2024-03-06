@@ -14,6 +14,25 @@
     <p><strong>喜欢这个项目？请给它一个星标！🌟 发现错误？请提交问题！🐛</strong></p>
 </div>
 
+[![Github][Github-image]][Github-url]
+[![License][License-image]][License-url]
+[![Releases][Releases-image]][Releases-url]
+[![Installation][Installation-image]][Installation-url]
+[![Wiki][Wiki-image]][Wiki-url]
+[![PR][PRs-image]][PRs-url]
+
+[Github-image]: https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
+[Github-url]: YOUR_GITHUB_REPOSITORY_LINK
+[License-image]: https://img.shields.io/badge/License-MIT-green
+[License-url]: YOUR_LICENSE_FILE_LINK
+[Releases-image]: https://img.shields.io/badge/Releases-View%20Releases-orange
+[Releases-url]: YOUR_RELEASES_PAGE_LINK
+[Installation-image]: https://img.shields.io/badge/Installation-Install%20Guide-yellow
+[Installation-url]: YOUR_INSTALLATION_GUIDE_LINK
+[Wiki-image]: https://img.shields.io/badge/Wiki-Project%20Wiki-lightgrey
+[Wiki-url]: YOUR_PROJECT_WIKI_LINK
+[PRs-image]: https://img.shields.io/badge/PRs-Pull%20Requests-green
+[PRs-url]: YOUR_PULL_REQUESTS_PAGE_LINK
 
 
 ## 安装指南 (Installation Guide)
