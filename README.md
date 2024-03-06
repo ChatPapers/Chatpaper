@@ -35,9 +35,21 @@ An open-source web app for summarizing articles, extracting and explaining figur
     ```sh
      pip install -r requirements.txt
 
-    # （选择II: 使用Anaconda）步骤也是类似的 (https://www.bilibili.com/video/BV1rc411W7Dr)：
-    conda create -n gptac_venv python=3.11    # 创建anaconda环境
-    conda activate gptac_venv                 # 激活anaconda环境
-    python -m pip install -r requirements.txt # 这个步骤和pip安装一样的步骤
     ```
+4. 安装DIT模型用于提取文字，表格和图片
 
+    下载detectron2：
+    ```sh
+     git clone https://github.com/facebookresearch/detectron2.git
+
+    ```
+    下载unilm,并修改一处bug：
+    ```sh
+     git clone https://github.com/microsoft/unilm.git
+     sed -i 's/from collections import Iterable/from collections.abc import Iterable/' unilm/dit/object_detection/ditod/table_evaluation/data_structure.py"
+    ```
+    下载Dit document layout model：
+    ```sh
+    curl -LJ -o publaynet_dit-b_cascade.pth 'https://layoutlm.blob.core.windows.net/dit/dit-fts/publaynet_dit-b_cascade.pth?sv=2022-11-02&ss=b&srt=o&sp=r&se=2033-06-08T16:48:15Z&st=2023-06-    08T08:48:15Z&spr=https&sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D'
+    ```
+    
