@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import gradio as gr
 import os
 import uuid  # Import the UUID library
